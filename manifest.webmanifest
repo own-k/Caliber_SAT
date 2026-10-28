@@ -1,0 +1,15 @@
+{
+  "name": "Caliber SAT Practice",
+  "short_name": "Caliber SAT",
+  "description": "Digital SAT practice tests, lessons and a six-month plan from Caliber Learning Center.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F6F4F0",
+  "theme_color": "#343E7B",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
